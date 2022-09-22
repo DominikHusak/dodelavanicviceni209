@@ -14,7 +14,7 @@ body {
     border:2px solid #AF4912;
     border-collapse:collapse;
     padding:5px;
-    margin-top: 120px;
+    margin-top: 50px;
 }
 .demo th {
     border:2px solid #AF4912;
@@ -29,3 +29,13 @@ body {
 caption {
     color: aliceblue;
 }
+p{
+    color: aliceblue;
+    margin-top: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-top: 50px;
+    padding: 0;
+  }
